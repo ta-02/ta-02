@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python and Neovim**
 
-- 📫 How to reach me **Talal.gl2004@gmail.com**
-
 - ⚡ Interests: **Fashion, old rap/indie music, rock climbing**
 
 <h3 align="left">Connect with me:</h3>
