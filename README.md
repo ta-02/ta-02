@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talal</h1>
 <h3 align="center">A aspiring full-stack developer from Toronto</h3>
 
-- 🔭 I’m currently working on **FullStackOpen Course**
+- 🔭 I’m currently working on **building a portfolio website**
 
-- 🌱 I’m currently learning **React, NodeJS, NextJS, and Rust**
+- 🌱 I’m currently learning **React, NodeJS, NextJS, and Go**
 
 - 💬 Ask me about **Python and Neovim**
 
