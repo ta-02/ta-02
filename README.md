@@ -3,13 +3,6 @@
 
 - 🔭 I’m currently working on **building a portfolio website**
 
-- 🌱 I’m currently learning **React, NodeJS, NextJS, and Go**
+- 🌱 I’m currently learning **Typescript, NodeJS, and NextJS**
 
-- 💬 Ask me about **Python and Neovim**
-
-- ⚡ Interests: **Fashion, old rap/indie music, rock climbing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/talal_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="talal_a" height="30" width="40" /></a>
-</p>
+- ⚡ Interests: **Vintage Clothes, Neovim, anything music related**
